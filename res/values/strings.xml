@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AHA</string>
+    <string name="app_title">AHA - Android HTTPS Analyser</string>
+    <string name="delete">clear</string>
+    <string name="hacked">You got hijacked</string>
+    <string name="toggle">Analyse</string>
+    <string name="phishing">Phising</string>
+</resources>
